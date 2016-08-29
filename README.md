@@ -2,7 +2,7 @@
 
 ## Project description
 
-## Who uses it?
+## Who uses it? / What problem does it solve?
 
 ### What outputs do they need?
 
