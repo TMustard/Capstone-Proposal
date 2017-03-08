@@ -1,13 +1,28 @@
-# Capstone Submissions
+# Capstone Project Proposal
 
-## Project description
+* Fork this repo and update this README file with your proposal.
+* Make sure to preview your proposal in a markdown preview and [use valid markdown syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+  * Unformatted/unreadable proposals will be rejected
 
-## Who uses it? / What problem does it solve?
+## Project Description
 
-### What outputs do they need?
 
-### What inputs are needed to generate those outputs?
+## What problem does your project solve?
 
-## Technologies you plan to use
 
-## Feature list
+## Who has this problem?
+
+
+## How will your project solve this problem?
+
+
+## What inputs does it need?
+
+
+## What outputs does it produce?
+
+
+## What technologies do you plan to use?
+
+
+## Prioritized Feature list (Label stretch features with STRETCH)
